@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gurman_A2/1.0.0": {
+        "runtime": {
+          "Gurman_A2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gurman_A2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

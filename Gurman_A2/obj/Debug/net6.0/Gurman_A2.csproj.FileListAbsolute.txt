@@ -1,0 +1,15 @@
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\bin\Debug\net6.0\Gurman_A2.exe
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\bin\Debug\net6.0\Gurman_A2.deps.json
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\bin\Debug\net6.0\Gurman_A2.runtimeconfig.json
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\bin\Debug\net6.0\Gurman_A2.dll
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\bin\Debug\net6.0\ref\Gurman_A2.dll
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\bin\Debug\net6.0\Gurman_A2.pdb
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\Gurman_A2.csproj.AssemblyReference.cache
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\Gurman_A2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\Gurman_A2.AssemblyInfoInputs.cache
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\Gurman_A2.AssemblyInfo.cs
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\Gurman_A2.csproj.CoreCompileInputs.cache
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\Gurman_A2.dll
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\ref\Gurman_A2.dll
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\Gurman_A2.pdb
+D:\Learning To Code\C#\Semester 2\Assignment 2\Gurman_A2\Gurman_A2\obj\Debug\net6.0\Gurman_A2.genruntimeconfig.cache

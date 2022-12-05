@@ -1,0 +1,6 @@
+D1_22_T501,Toyota,2019,Highlander,49000.00,SUV
+D1_22_T501,Toyota,2018,Corolla,19500.00,Sedan
+D1_22_T501,Honda,2017,Civic,24500.00,Sedan
+D2_22_B321,Toyota,2018,Corolla,17000.00,Sedan
+D2_22_B321,Hyundai,2020,Elantra,34500.00,Sedan
+D2_22_B321,Nissan,2018,Titan,53000.00,Truck
